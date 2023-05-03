@@ -1,4 +1,4 @@
-#Replace any negative array values with 'Dojo'
+#Replace any negative list values with 'Dojo'
 
 def replace_negatives(list):
 
